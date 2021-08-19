@@ -11,5 +11,5 @@ A web application used to tranfer virtual money between multiple users and also 
 Flow : Home Page > View all customers > Select and View one customer > Transfer Money > Select customer to transfer to > View all Customers.
 
 # website link
-file:///C:/Users/intl/Desktop/Banking-system-main/index.html
+file:///C:/Users/intl/Desktop/Naincy%20sharma/index.html
 
